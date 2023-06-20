@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.exe
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.deps.json
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.runtimeconfig.json
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.dll
+C:\Users\User\source\repos\PersonTask\PersonTask\bin\Debug\netcoreapp3.1\PersonTask.pdb
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.AssemblyInfo.cs
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.dll
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.pdb
+C:\Users\User\source\repos\PersonTask\PersonTask\obj\Debug\netcoreapp3.1\PersonTask.genruntimeconfig.cache
